@@ -1,0 +1,12 @@
+transformers
+llama-index-llms-ollama
+llama-index 
+llama-index-readers-web
+llama-index-vector-stores-milvus
+llama-index-embeddings-huggingface 
+numpy==1.26.4
+accelerate
+llama-index-llms-huggingface
+ipywidgets
+fastapi
+uvicorn
