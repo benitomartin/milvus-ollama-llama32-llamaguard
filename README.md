@@ -1,4 +1,4 @@
-# RAG application with Milvus, LlamaIndex, Llama 3.2 & LlamaGuard! 🦙
+# RAG application with Milvus, LlamaIndex, Llama 3.2 & LlamaGuard 🦙
 
 <p align="center">
 <img width="737" alt="cover" src="https://github.com/user-attachments/assets/43562172-3bad-4c87-a904-cba775c87f6e">
